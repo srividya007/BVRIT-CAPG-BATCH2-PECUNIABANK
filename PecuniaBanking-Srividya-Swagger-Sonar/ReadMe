@@ -1,0 +1,8 @@
+SWAGGER:
+
+http://localhost:9999/swagger-ui.html
+
+SONARQUBE 
+
+To check the code quality
+http://localhost:9000
